@@ -2,7 +2,7 @@
 
 # 源码分析
 
-续上文中的测试类，分析其中源码，先看测试类：
+先看测试类：
 
 ```java
 package uestc.zhangkx;
